@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "AliExpress_Stuff")(type "KiCad")(uri "C:/Users/Lenovo L14/OneDrive/Documents/KiCad/6.0/footprints/AliExpress_Stuff.pretty")(options "")(descr "")(disabled))
+  (lib (name "1afootprints")(type "KiCad")(uri "${KIPRJMOD}/footprints")(options "")(descr ""))
+)
